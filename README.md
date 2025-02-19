@@ -16,7 +16,8 @@ tensorflow>=2.4.0
 <br>jupyter>=1.0.0
 <br>tqdm>=4.50.0
 ## 3. Run UniChrom:
-python GM12878_main.py
-<br>python IMR90_main.py
-<br>python K562_main.py
-
+python GM12878_code/GM12878_main.py
+<br>python IMR90_code/IMR90_main.py
+<br>python K562_code/K562_main.py
+## predict:
+eg:python 
