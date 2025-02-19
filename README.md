@@ -20,4 +20,4 @@ python GM12878_code/GM12878_main.py
 <br>python IMR90_code/IMR90_main.py
 <br>python K562_code/K562_main.py
 ## predict:
-eg:python 
+eg:python  predict_Chrom_interaction.py chr1:15420-100420  chr1:12420-14020 GM12878
