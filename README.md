@@ -1,5 +1,5 @@
 # UniChrom: A Universal Deep Learning Architecture for Cross-Scale Chromatin Interaction Prediction
-## 1. Clone the TransSE repository:
+## 1. Clone the UniChrom repository:
 git clone https://github.com/shuaibinw/UniChrom.git
 <br>cd UniChrom
 ## 2. Install the required dependencies:
